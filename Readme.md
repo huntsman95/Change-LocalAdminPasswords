@@ -28,7 +28,7 @@ Example 2
     Status                                                         ComputerName                                                   LocalAdminPassword
     ------                                                         ------------                                                   ------------------
     Success                                                        SRV-HORIZON.testdomain.local                                   H&;tKpHw
-```
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
