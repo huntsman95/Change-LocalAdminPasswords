@@ -29,6 +29,9 @@ Example 2
     ------                                                         ------------                                                   ------------------
     Success                                                        SRV-HORIZON.testdomain.local                                   H&;tKpHw
 
+Example 3 (Output to CSV)
+
+    Get-ADComputer SRV-HORIZON | Change-LocalAdminPasswords | Export-CSV $env:USERPROFILE\Desktop\Passwords.csv -NoTypeInformation
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
